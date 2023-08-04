@@ -1,0 +1,453 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+/* navbar section */
+#nav_padding4 {
+    padding-right: 61px;
+    padding-top: 14px;
+    font-family: 'Open Sans', sans-serif !important;
+    font-size: 16.67px;
+    color: #54524f;
+    font-family: bold !important;
+}
+
+#nav_padding3 {
+    padding-right: 55px;
+    padding-top: 14px;
+    font-family: 'Open Sans', sans-serif !important;
+    font-size: 16.67px;
+    color: #54524f;
+    font-family: bold !important;
+}
+
+#nav_padding2 {
+    padding-right: 59px;
+    padding-top: 14px;
+    font-family: 'Open Sans', sans-serif !important;
+    font-size: 16.67px;
+    color: #54524f;
+    font-family: bold !important;
+}
+
+#nav_padding1 {
+    padding-right: 57px;
+    padding-top: 14px;
+    font-family: 'Open Sans', sans-serif !important;
+    font-size: 16.67px;
+    color: #54524f;
+    font-family: bold !important;
+}
+
+#nav_search {
+    height: 50px;
+    width: 185px;
+    margin-right: 55px;
+    background-color: #c3bfbc;
+    border-radius: 50px;
+}
+
+#nav_padding5 {
+    padding-left: 117px;
+    padding-top: 8px;
+}
+
+#nav_logo {
+    padding-left: 71px;
+}
+
+/* banner section */
+#banner {
+    height: 880px;
+    background-image: url(banner\ bg.png);
+    background-size: 100% 100%;
+}
+
+#banner_head1 {
+    font-size: 91.67px;
+    color: #deb37e;
+    padding-top: 242px;
+    padding-left: 94px;
+    font-family: 'Poppins', sans-serif;
+}
+
+#banner_head2 {
+    font-family: 'Poppins', sans-serif;
+    padding-left: 94px;
+    font-size: 25px;
+    color: #54524f;
+}
+
+#banner_btn {
+    font-family: 'Poppins', sans-serif;
+    font-size: 24.98px;
+    color: #776c64;
+    padding: 10px;
+    margin-top: 68px;
+    margin-left: 94px;
+    width: 217px;
+    height: 48px;
+    background-color: #fefefd;
+    border-radius: 50px;
+    line-height: 0;
+    border: none;
+}
+
+#banner_para {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20.83px;
+    color: #54524f;
+    padding-left: 94px;
+    padding-top: 27px;
+}
+
+/* let's go section */
+#let_go {
+    height: 1210px;
+}
+
+#let_go_head1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 62.5px;
+    color: #e2a355;
+    padding-top: 136px;
+    margin-bottom: 0;
+}
+
+#let_go_para {
+    font-size: 27.8px;
+    color: #7f7770;
+    padding-top: 52px;
+    margin-bottom: 0;
+    padding-bottom: 84px;
+}
+
+.let_card {
+    width: 340px;
+    height: 528px;
+    background-color: #7f7770;
+}
+
+.let_card img {
+    height: 301px;
+    width: 100%;
+}
+
+.let_card_head {
+    font-size: 29.17px;
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 58px;
+    padding-left: 15px;
+    margin-bottom: 0;
+}
+
+.let_card_para {
+    padding-top: 26px;
+    font-size: 22.92px;
+    color: #ffffff;
+    padding-left: 15px;
+}
+
+#lets_go_btn {
+    width: 335px;
+    height: 75px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 23.15px;
+    color: #ffffff;
+    background-color: #7f7770;
+    line-height: 0;
+    margin: 57px auto 117px;
+    border-radius: 50px;
+    border: none;
+}
+
+/* discount section */
+#discount {
+    height: 780px;
+    background-color: #7f7770;
+}
+
+.discount_paddding {
+    padding: 0 !important;
+}
+
+.discount_img {
+    width: 100%;
+    height: 780px;
+}
+
+#discount_head1 {
+    font-size: 58.33px;
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 200px;
+    padding-left: 64px;
+}
+
+#discount_para1 {
+    font-size: 29.17px;
+    color: #ffffff;
+    padding-top: 52px;
+    padding-left: 64px;
+}
+
+#discount_btn {
+    font-size: 29.17px;
+    color: #ffffff;
+    background-color: #e2a355;
+    width: 337px;
+    height: 77px;
+    line-height: 0;
+    border-radius: 50px;
+    margin-top: 60px;
+    margin-left: 64px;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* promo section */
+#promo {
+    height: 780px;
+    background-color: #deb37e;
+}
+
+.promo_img {
+    width: 100%;
+    height: 780px;
+}
+
+#promo_head1 {
+    font-size: 58.33px;
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 200px;
+    padding-left: 135px;
+}
+
+#promo_para1 {
+    font-size: 29.17px;
+    color: #ffffff;
+    padding-top: 52px;
+    padding-left: 135px;
+}
+
+#promo_btn {
+    font-size: 29.17px;
+    color: #ffffff;
+    background-color: #e2a355;
+    width: 337px;
+    height: 77px;
+    line-height: 0;
+    border-radius: 50px;
+    margin-top: 60px;
+    margin-left: 135px;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* hiking section */
+#hiking {
+    height: 637px;
+    padding: 0 !important;
+}
+
+#hiking_div {
+    height: 638px;
+    background-image: url(hiking\ leaf\ img.png), url(hiking\ bg.png);
+    background-repeat: no-repeat;
+    background-size: 34% 57%, 100% 100%;
+    margin-top: 145px;
+    background-position-y: 121px, 0px;
+}
+
+#hiking_head1 {
+    font-size: 58.33px;
+    color: #ffffff;
+    padding-top: 223px;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 0;
+}
+
+#hiking_para {
+    font-size: 29.17px;
+    color: #dbdbdb;
+    padding-top: 53px;
+}
+
+/* explore section */
+#explore_main {
+    height: 800px;
+    padding: 0 !important;
+}
+
+#explore {
+    height: 784px;
+    background-image: url(explorebg.png);
+    background-size: 100% 100%;
+    margin-top: 180px;
+}
+
+#explore_head {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 75px;
+    color: #deb37e;
+    padding-top: 240px;
+    padding-left: 1000px;
+    margin-bottom: 0;
+    line-height: 0.7;
+}
+
+#explore_head2 {
+    font-size: 83.33px;
+    font-family: 'Open Sans', sans-serif;
+    color: #54524f;
+    padding-top: 39px;
+    padding-left: 856px;
+    line-height: 0.7;
+}
+
+/* lorem section */
+#lorem {
+    height: 726px;
+}
+
+.lorem_head {
+    font-size: 33.33px;
+    color: #deb37e;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.lorem_para {
+    font-size: 18.75px;
+    color: #333d42;
+    padding-top: 38px;
+}
+
+#lorem_second_row {
+    margin-top: 118px;
+    height: auto;
+    background-image: url(lorem\ shadow.png);
+    background-size: 37% 81%;
+    background-repeat: no-repeat;
+    background-position-x: 966px;
+    background-position-y: 2px;
+}
+
+#lorem_second_row_para1 {
+    font-size: 73px;
+    margin-bottom: 0;
+}
+
+#lorem_second_row_para2 {
+    font-size: 25px;
+    color: #3f3f3f;
+    padding-top: 45px;
+    margin-bottom: 0;
+}
+
+#lorem_second_row_head1 {
+    font-size: 20.83px;
+    color: #3f3f3f;
+    padding-top: 60px;
+    padding-bottom: 107px;
+}
+
+/* email section */
+#email {
+    height: 730px;
+    background-image: url(email\ bg.png);
+    background-size: 100% 100%;
+}
+
+#email_head1 {
+    font-size: 110.13px;
+    color: #ffffff;
+    padding-top: 225px;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 0;
+}
+
+#email_para {
+    font-size: 29.72px;
+    color: #54524f;
+    padding-top: 66px;
+    margin-bottom: 0;
+}
+
+#email_input {
+    width: 625px;
+    height: 65px;
+    margin-top: 80px;
+    border-radius: 50px;
+    border: none;
+    padding-left: 20px;
+    font-size: 25px;
+    color: #54524f;
+    outline: none;
+}
+
+#email_btn {
+    width: 222px;
+    height: 70px;
+    border-radius: 50px;
+    font-size: 25px;
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+    border: none;
+    background-color: #54524f;
+    margin-left: -90px;
+    outline: none;
+}
+
+/* footer section */
+#footer {
+    height: 886px;
+    background-image: url(footer\ bg.png);
+    background-size: 100% 100%;
+}
+
+.footer_head {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 31.6px;
+    color: #ffffff;
+}
+
+#footer_head1 {
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 397px;
+    padding-left: 94px;
+}
+
+.footer_para {
+    font-size: 23.7px;
+    color: #ffffff;
+}
+
+#footer_para1 {
+    padding-top: 38px;
+    padding-left: 94px;
+}
+
+#social_media {
+    padding-left: 94px;
+}
+
+#footer_head2 {
+    padding-top: 397px;
+}
+
+.links {
+    color: #ffffff;
+    padding-top: 38px;
+}
+
+.link_para {
+    font-size: 23.7px;
+    color: #fff;
+}

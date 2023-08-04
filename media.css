@@ -1,0 +1,551 @@
+@media (max-width: 575.98px) {
+    br {
+        display: none;
+    }
+
+    /* navbar section */
+    #nav_logo {
+        padding-left: 0;
+        width: 55px;
+    }
+
+    /* banner section */
+    #banner {
+        height: 750px;
+    }
+
+    #banner_head1,
+    #banner_head2,
+    #banner_btn,
+    #banner_para {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    #banner_head1 {
+        font-size: 46px;
+        padding-top: 120px;
+    }
+
+    /* let's go section */
+    #let_go {
+        height: auto;
+    }
+
+    .let_card {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    #lets_go_btn {
+        width: 257px;
+    }
+
+    /* discount section */
+    #discount {
+        height: auto;
+    }
+
+    .discount_paddding {
+        text-align: center;
+    }
+
+    #discount_head1,
+    #discount_para1,
+    #discount_btn {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    #discount_btn {
+        width: 259px;
+        margin-bottom: 20px;
+    }
+
+    #discount_head1 {
+        font-size: 44px;
+        padding-top: 85px;
+    }
+
+    .discount_img {
+        height: 600px;
+    }
+
+    /* promo section */
+    #promo {
+        height: auto;
+    }
+
+    .promo_paddding {
+        text-align: center;
+    }
+
+    #promo_head1,
+    #promo_para1,
+    #promo_btn {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    #promo_btn {
+        width: 259px;
+        margin-bottom: 20px;
+    }
+
+    #promo_head1 {
+        font-size: 44px;
+        padding-top: 100px;
+    }
+
+    .promo_img{
+        height: 600px;
+    }
+    /* hiking section */
+    #hiking {
+        height: auto;
+    }
+
+    #hiking_div {
+        height: 609px;
+    }
+
+    #hiking_head1 {
+        font-size: 40px;
+        padding-top: 77px;
+    }
+
+    #hiking_para {
+        font-size: 29.17px;
+        line-height: 1.2;
+    }
+
+    /* explore section */
+    #explore_main {
+        height: auto;
+    }
+
+    #explore {
+        height: 500px;
+    }
+
+    #explore_head {
+        padding-top: 100px;
+        padding-left: 0;
+        font-size: 60px;
+    }
+
+    #explore_head2 {
+        padding-top: 39px;
+        padding-left: 0;
+        font-size: 65px;
+        line-height: 1.2;
+    }
+
+    /* lorem section */
+    #lorem {
+        height: auto;
+    }
+
+    /* email section */
+    #email {
+        height: 892px;
+    }
+
+    #email_input {
+        width: 160px;
+        height: 52px;
+        margin-top: 38px;
+        font-size: 19px;
+    }
+
+    #email_btn {
+        width: 128px;
+        margin-left: -48px;
+        font-size: 19px;
+        height: 52px;
+    }
+
+
+    #email_head1 {
+        font-size: 79.13px;
+        padding-top: 151px;
+    }
+
+    #email_para {
+        padding-top: 20px;
+    }
+
+    /* footer section */
+    #footer {
+        height: auto;
+    }
+
+    #footer_head1 {
+        padding-top: 250px;
+        padding-left: 20px;
+    }
+
+    #footer_para1 {
+        padding-left: 20px;
+    }
+
+    #social_media {
+        padding-left: 20px;
+    }
+
+    #footer_head2 {
+        padding-top: 53px;
+    }
+
+    .footer_head {
+        font-size: 18.6px;
+    }
+
+    .link_para {
+        font-size: 9.7px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    br {
+        display: none;
+    }
+
+    /* navbar section */
+    #nav_logo {
+        padding-left: 0;
+        width: 55px;
+    }
+
+    /* banner section */
+    #banner {
+        height: 750px;
+    }
+
+    #banner_head1,
+    #banner_head2,
+    #banner_btn,
+    #banner_para {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    #banner_head1 {
+        font-size: 46px;
+        padding-top: 120px;
+    }
+
+    /* let's go section */
+    #let_go {
+        height: auto;
+    }
+
+    .let_card {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    #lets_go_btn {
+        width: 257px;
+    }
+
+    /* discount section */
+    #discount {
+        height: auto;
+    }
+
+    .discount_paddding {
+        text-align: center;
+    }
+
+    #discount_head1,
+    #discount_para1,
+    #discount_btn {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    #discount_btn {
+        width: 259px;
+        margin-bottom: 20px;
+    }
+
+    #discount_head1 {
+        font-size: 44px;
+    }
+
+    /* promo section */
+    #promo {
+        height: auto;
+    }
+
+    .promo_paddding {
+        text-align: center;
+    }
+
+    #promo_head1,
+    #promo_para1,
+    #promo_btn {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    #promo_btn {
+        width: 259px;
+        margin-bottom: 20px;
+    }
+
+    #promo_head1 {
+        font-size: 44px;
+    }
+
+    /* hiking section */
+    #hiking {
+        height: auto;
+    }
+
+    #hiking_div {
+        height: 609px;
+    }
+
+    #hiking_head1 {
+        font-size: 40px;
+        padding-top: 77px;
+    }
+
+    #hiking_para {
+        font-size: 29.17px;
+        line-height: 1.2;
+    }
+
+    /* explore section */
+    #explore_main {
+        height: auto;
+    }
+
+    #explore {
+        height: 500px;
+    }
+
+    #explore_head {
+        padding-top: 100px;
+        padding-left: 0;
+        font-size: 60px;
+    }
+
+    #explore_head2 {
+        padding-top: 39px;
+        padding-left: 0;
+        font-size: 65px;
+        line-height: 1.2;
+    }
+
+    /* lorem section */
+    #lorem {
+        height: auto;
+    }
+
+    /* email section */
+    #email {
+        height: 684px;
+    }
+
+    #email_input {
+        width: 346px;
+        margin-top: 38px;
+    }
+
+    #email_btn {
+        width: 152px;
+        margin-left: -54px;
+    }
+
+
+    #email_head1 {
+        font-size: 79.13px;
+        padding-top: 151px;
+    }
+
+    #email_para {
+        padding-top: 20px;
+    }
+
+    /* footer section */
+    #footer {
+        height: auto;
+    }
+
+    #footer_head1 {
+        padding-top: 250px;
+        padding-left: 20px;
+    }
+
+    #footer_para1 {
+        padding-left: 20px;
+    }
+
+    #social_media {
+        padding-left: 20px;
+    }
+
+    #footer_head2 {
+        padding-top: 53px;
+    }
+
+    .footer_head {
+        font-size: 18.6px;
+    }
+
+    .link_para {
+        font-size: 9.7px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    br {
+        display: none;
+    }
+
+    /* explore section */
+    #explore_main {
+        height: auto;
+    }
+
+    #explore {
+        height: 500px;
+    }
+
+    #explore_head {
+        padding-top: 100px;
+        padding-left: 0;
+        font-size: 60px;
+    }
+
+    #explore_head2 {
+        padding-top: 39px;
+        padding-left: 0;
+        font-size: 65px;
+        line-height: 1.2;
+    }
+
+    /* discount section */
+    #discount {
+        height: auto;
+    }
+
+    .discount_img {
+        height: 100%;
+    }
+
+    #discount_btn {
+        width: 309px;
+    }
+
+    /* promo section */
+    #promo {
+        height: auto;
+    }
+
+    .promo_img {
+        height: 100%;
+    }
+
+    #promo_head1 {
+        padding-left: 40px;
+    }
+
+    #promo_para1 {
+        padding-left: 40px;
+    }
+
+    #promo_btn {
+        margin-left: 40px;
+    }
+
+    /* let's go section */
+    .let_card {
+        width: 100%;
+        height: 528px;
+    }
+
+    /* email_section */
+    #email {
+        height: 759px;
+    }
+
+    #email_input {
+        width: 498px;
+    }
+
+    #social_media {
+        margin-bottom: 30px;
+    }
+
+    /* footer section */
+    #footer {
+        height: auto;
+    }
+
+    #footer_head1 {
+        padding-left: 0;
+    }
+
+    #footer_para1 {
+        padding-left: 0;
+    }
+
+    #social_media {
+        padding-left: 0;
+    }
+
+    .link_para {
+        font-size: 18px;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+     /* let's go section */
+     .let_card {
+        width: 100%;
+        height: 528px;
+    }
+
+    /* discount section */
+    #discount {
+        height: auto;
+    }
+
+    .discount_img {
+        height: 100%;
+    }
+
+    #discount_btn{
+        margin-bottom: 30px;
+    }
+    /* promo section */
+    #promo {
+        height: auto;
+    }
+
+    .promo_img {
+        height: 100%;
+    }
+
+    #promo_btn {
+        margin-left: 40px;
+        margin-bottom: 30px;
+    }
+      /* explore section */
+      #explore_main {
+        height: auto;
+    }
+    #explore_head {
+        padding-left: 0;
+    }
+
+    #explore_head2 {
+        padding-left: 0;
+    }
+}
+@media (min-width: 1200px) {
+    
+}
